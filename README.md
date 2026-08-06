@@ -640,7 +640,6 @@ Let's build something amazing together! 🚀
 ---<div align="center">
 
 <h2>💻 Code. Learn. Build. Repeat.</h2>
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=120&section=footer)
 
 ## 💻 "Code. Learn. Build. Repeat."
 
