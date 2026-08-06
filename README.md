@@ -1,8 +1,16 @@
-<div align="center">
+<div align="center"><div align="center">
 
 # Hi 👋, I'm Krishna Sharma
 
-### **🤖 AI & Machine Learning Student**  ### **💻 Software Developer**    ### **🌱 Aspiring AI Engineer**
+### **🤖 AI & Machine Learning Student** • **💻 Software Developer** • **🧠 AI Enthusiast**
+
+<p><i>Building intelligent software, solving real-world problems, and continuously learning through AI, Machine Learning, and Software Engineering.</i></p>
+
+</div>
+
+# Hi 👋, I'm Krishna Sharma
+
+### **🤖 AI & Machine Learning Student**  **💻 Software Developer**    **🌱 Aspiring AI Engineer**
 
 </div>
 
