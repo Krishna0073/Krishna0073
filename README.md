@@ -1,10 +1,12 @@
-<div align="center"><div align="center">
+<div align="center">
 
 # Hi 👋, I'm Krishna Sharma
 
-### **🤖 AI & Machine Learning Student** • **💻 Software Developer** • **🧠 AI Enthusiast**
+### **🤖 AI & Machine Learning Student** • **💻 Software Developer** • **🌱 Aspiring AI Engineer**
 
-<p><i>Building intelligent software, solving real-world problems, and continuously learning through AI, Machine Learning, and Software Engineering.</i></p>
+*Building intelligent software, solving real-world problems, and continuously learning through AI, Machine Learning, and Software Engineering.*
+
+</div>
 
 
 
@@ -44,11 +46,11 @@ Lovely Professional University
 
 Currently Working On
 
-├── 🤖 AI Assistance
-├── 🏭 SteelForge
-├── 🧠 Machine Learning Projects
+├── 🤖 AI & ML Projects
 ├── 📚 Data Structures & Algorithms
-└── 🚀 Full Stack Development
+├── 💻 C++ & STL
+├── 🌐 Web Development
+└── 🚀 Software Development
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -65,18 +67,15 @@ Interested In
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Currently Learning
+# 🌱 Currently Learning
 
-├── Advanced C++
-├── STL
-├── DSA
-├── Machine Learning
-├── FastAPI
-├── React
-└── SQL
-
-```
-
+- 🚀 Data Structures & Algorithms
+- ⚡ Advanced C++
+- 📚 Standard Template Library (STL)
+- 🤖 Machine Learning
+- 🐍 Python
+- 🗄️ SQL
+- 💻 Software Development
 ---
 
 # 🚀 Highlights
@@ -85,9 +84,9 @@ Currently Learning
 - 💻 Built multiple projects using **C, C++, Python 
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 📚 Currently mastering **Data Structures & Algorithms**
-- 🚀 Developing Full Stack applications
+- 🚀 Building AI & Software Projects
 - 🌱 Continuously improving problem-solving skills
-- 💡 Interested in AI Automation and Intelligent Systems
+- 💡 Passionate about AI, Machine Learning & Problem Solving
 - ⭐ Active learner building projects every semester
 
 ---
@@ -97,7 +96,7 @@ Currently Learning
 ## 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,git,github,vscode"/>
 </p>
 
 ---
@@ -114,23 +113,14 @@ Currently Learning
 - Pandas
 - Scikit-Learn
 - Machine Learning
-- Deep Learning (Learning)
-- Data Analysis
-
----
-
-## 🌐 Web Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css,js"/>
-</p>
+- Data Preprocessing
 
 ---
 
 ## 🛢 Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ---
@@ -138,7 +128,7 @@ Currently Learning
 ## ⚙ Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
