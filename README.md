@@ -2,7 +2,12 @@
 
 # Hi 👋, I'm Krishna Sharma
 
-### 🤖 AI & Machine Learning Enthusiast • Full Stack Developer • C++ Programmer
+🤖 AI & Machine Learning Student
+💻 Software Developer
+🌱 Aspiring AI Engineer
+🚀 AI & Software Engineering Enthusiast
+🧠 AI/ML Developer
+💡 Software Development & AI Enthusiast
 
 Building intelligent software, solving real-world problems with AI, and continuously improving through Data Structures & Algorithms.
 
@@ -78,7 +83,7 @@ Currently Learning
 # 🚀 Highlights
 
 - 🎓 B.Tech CSE (AI & ML) Student at **Lovely Professional University**
-- 💻 Built multiple projects using **C, C++, Python and JavaScript**
+- 💻 Built multiple projects using **C, C++, Python 
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 📚 Currently mastering **Data Structures & Algorithms**
 - 🚀 Developing Full Stack applications
@@ -163,8 +168,7 @@ I enjoy creating software that combines **Artificial Intelligence**, **Machine L
 ## 🏭 SteelForge
 
 ### Full Stack Steel Business Management Platform
-
-A modern full-stack platform designed to streamline steel business operations, customer management, quotations, product catalogs, and order tracking.
+Built and customized a full-stack steel management platform using AI-assisted development tools, while integrating features, testing functionality, and managing the project.
 
 ### ✨ Features
 
