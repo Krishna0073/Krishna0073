@@ -6,13 +6,7 @@
 
 <p><i>Building intelligent software, solving real-world problems, and continuously learning through AI, Machine Learning, and Software Engineering.</i></p>
 
-</div>
 
-# Hi 👋, I'm Krishna Sharma
-
-### **🤖 AI & Machine Learning Student**  **💻 Software Developer**    **🌱 Aspiring AI Engineer**
-
-</div>
 
 Building intelligent software, solving real-world problems with AI, and continuously improving through Data Structures & Algorithms.
 
