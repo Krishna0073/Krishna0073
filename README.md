@@ -2,12 +2,11 @@
 
 # Hi 👋, I'm Krishna Sharma
 
-🤖 AI & Machine Learning Student
-💻 Software Developer
-🌱 Aspiring AI Engineer
-🚀 AI & Software Engineering Enthusiast
-🧠 AI/ML Developer
-💡 Software Development & AI Enthusiast
+### **🤖 AI & Machine Learning Student**
+### **💻 Software Developer**
+### **🌱 Aspiring AI Engineer**
+
+</div>
 
 Building intelligent software, solving real-world problems with AI, and continuously improving through Data Structures & Algorithms.
 
