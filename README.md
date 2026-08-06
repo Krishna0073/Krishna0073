@@ -2,9 +2,7 @@
 
 # Hi 👋, I'm Krishna Sharma
 
-### **🤖 AI & Machine Learning Student**
-### **💻 Software Developer**
-### **🌱 Aspiring AI Engineer**
+### **🤖 AI & Machine Learning Student**  ### **💻 Software Developer**    ### **🌱 Aspiring AI Engineer**
 
 </div>
 
