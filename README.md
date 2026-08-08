@@ -638,6 +638,7 @@ Let's build something amazing together! 🚀
 </p>
 
 ---<div align="center">
+<p align="left"> <a href="https://github.com/Krishna0073"> <img src="https://img.shields.io/badge/GitHub-Krishna0073-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/krishna-sharma-663375276/"> <img src="https://img.shields.io/badge/LinkedIn-Krishna_Sharma-0077B5?style=for-the-badge&logo=linkedin"/> </a> </p>
 
 ## 💻 "Code. Learn. Build. Repeat."
 
