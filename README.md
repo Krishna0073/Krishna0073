@@ -95,11 +95,11 @@ Interested In
 
 ## 💻 Languages
 
+<## 💻 Languages
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,git,github,vscode"/>
 </p>
-
----
 
 ## 🤖 AI / Machine Learning
 
