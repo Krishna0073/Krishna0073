@@ -174,13 +174,11 @@ Built and customized a full-stack steel management platform using AI-assisted de
 
 `React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `Git`
 
-<p>
-<a href="https://github.com/Krishna0073/StealFordge">
-<img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github"/>
-</a>
+<p align="center">
+  <a href="https://github.com/Krishna0073/SteelFordge">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+  </a>
 </p>
-
----
 
 ## 🤖 AI Assistance
 
