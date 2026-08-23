@@ -1,7 +1,8 @@
+<div align="center">
 # Hi 👋, I'm Krishna Sharma
 
 ### **🤖 AI & Machine Learning Student** • **💻 Software Developer** • **🌱 Aspiring AI Engineer**
-
+</div>
 *Building intelligent software, solving real-world problems, and continuously learning through AI, Machine Learning, and Software Engineering.*
 
 Building intelligent software, solving real-world problems with AI, and continuously improving through Data Structures & Algorithms.
@@ -516,3 +517,6 @@ Let's build something amazing together! 🚀
  
 
 ## 💻 "Code. Learn. Build. Repeat."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=120&section=footer"/>
+
+</div>
