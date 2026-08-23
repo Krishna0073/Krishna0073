@@ -1,6 +1,17 @@
 # Hi 👋, I'm Krishna Sharma
 
 ### **🤖 AI & Machine Learning Student** • **💻 Software Developer** • **🌱 Aspiring AI Engineer**
+<p align="center">
+  <a href="https://github.com/Krishna0073">
+    <img src="https://img.shields.io/badge/GitHub-Krishna0073-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/krishna-sharma-663375276/">
+    <img src="https://img.shields.io/badge/LinkedIn-Krishna%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=Krishna0073&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
 </div>
 *Building intelligent software, solving real-world problems, and continuously learning through AI, Machine Learning, and Software Engineering.*
 
