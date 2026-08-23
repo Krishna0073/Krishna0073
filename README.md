@@ -1,33 +1,10 @@
-<div align="center">
-
 # Hi 👋, I'm Krishna Sharma
 
 ### **🤖 AI & Machine Learning Student** • **💻 Software Developer** • **🌱 Aspiring AI Engineer**
 
 *Building intelligent software, solving real-world problems, and continuously learning through AI, Machine Learning, and Software Engineering.*
 
-</div>
-
-
-
 Building intelligent software, solving real-world problems with AI, and continuously improving through Data Structures & Algorithms.
-
-<p>
-<a href="https://github.com/Krishna0073">
-<img src="https://img.shields.io/badge/GitHub-Krishna0073-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/krishna-sharma-663375276/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Krishna0073&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Student;Full+Stack+Developer;C%2B%2B+%7C+Python+%7C+JavaScript;Learning+DSA+%26+System+Design;Always+Building+Something+New+🚀"/>
-
-</div>
 
 ---
 
@@ -97,15 +74,7 @@ Interested In
 
 <## 💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,git,github,vscode"/>
-</p>
-
 ## 🤖 AI / Machine Learning
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
 
 **Libraries & Concepts**
 
@@ -119,27 +88,13 @@ Interested In
 
 ## 🛢 Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
 ---
 
 ## ⚙ Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
 ---
 
 # 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krishna0073&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
 
 ---
 
@@ -174,11 +129,7 @@ Built and customized a full-stack steel management platform using AI-assisted de
 
 `React` `TypeScript` `FastAPI` `Python` `PostgreSQL` `Git`
 
-<p align="center">
-  <a href="https://github.com/Krishna0073/SteelFordge">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-  </a>
-</p>
+  
 
 ## 🤖 AI Assistance
 
@@ -201,12 +152,6 @@ An intelligent desktop assistant capable of performing voice-controlled tasks, o
 
 `Python` `CustomTkinter` `SpeechRecognition` `pyttsx3` `MoviePy`
 
-<p>
-<a href="https://github.com/Krishna0073/AI-ASSISTANCE">
-<img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github"/>
-</a>
-</p>
-
 ---
 
 ## 🤖 Robot Maze Navigation
@@ -227,12 +172,6 @@ A pathfinding project demonstrating how intelligent agents navigate mazes using 
 ### 🛠 Tech Stack
 
 `Python` `Algorithms`
-
-<p>
-<a href="https://github.com/Krishna0073/Robot-Maze-Navigation">
-<img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github"/>
-</a>
-</p>
 
 ---
 
@@ -255,12 +194,6 @@ A C++ project implementing banking operations using Object-Oriented Programming 
 
 `C++` `OOP`
 
-<p>
-<a href="https://github.com/Krishna0073/Banking-Management-System-CPP">
-<img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github"/>
-</a>
-</p>
-
 ---
 
 ## 📚 Library Management System
@@ -279,12 +212,6 @@ A console-based Library Management System developed using C++.
 
 `C++`
 
-<p>
-<a href="https://github.com/Krishna0073/Library-Management-System-CPP">
-<img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github"/>
-</a>
-</p>
-
 ---
 
 ## 🎮 Imposter Game
@@ -294,12 +221,6 @@ A fun game project demonstrating game logic, programming fundamentals, and inter
 ### Tech
 
 `Python`
-
-<p>
-<a href="https://github.com/Krishna0073/imposter-game-">
-<img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github"/>
-</a>
-</p>
 
 ---
 
@@ -323,12 +244,6 @@ A collection of STL implementations and examples for mastering C++ Standard Temp
 
 `C++` `STL`
 
-<p>
-<a href="https://github.com/Krishna0073/C-STL-practice">
-<img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github"/>
-</a>
-</p>
-
 ---
 
 ## 💻 C Practice Repository
@@ -349,12 +264,6 @@ A repository containing C programming exercises covering arrays, searching, sort
 
 `C`
 
-<p>
-<a href="https://github.com/Krishna0073/C-practice">
-<img src="https://img.shields.io/badge/View-Repository-black?style=flat-square&logo=github"/>
-</a>
-</p>
-
 ---
 
 ## 📂 Other Projects
@@ -369,26 +278,15 @@ A repository containing C programming exercises covering arrays, searching, sort
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishna0073&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna0073&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Krishna0073&theme=tokyonight&hide_border=true" />
-</p>
+  
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna0073&theme=tokyo-night&hide_border=true" />
-</p>
+  
 
 ---
 
 # 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Krishna0073/Krishna0073/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
@@ -518,18 +416,6 @@ Programming Journey
 ---
 # 🤝 Let's Connect
 
-<p align="center">
-
-<a href="https://github.com/Krishna0073">
-<img src="https://img.shields.io/badge/GitHub-Krishna0073-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/krishna-sharma-663375276/">
-<img src="https://img.shields.io/badge/LinkedIn-Krishna%20Sharma-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
 ---
 
 # 💼 Open To
@@ -616,17 +502,9 @@ while(!success)
 
 # 📈 Profile Views
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Krishna0073&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
 ---
 
 # ❤️ Thanks for Visiting!
-
-<p align="center">
 
 ### If you like my work, consider giving a ⭐ to my repositories.
 
@@ -634,13 +512,7 @@ I enjoy building projects, learning new technologies, and collaborating with dev
 
 Let's build something amazing together! 🚀
 
-</p>
-
----<div align="center">
-<p align="left"> <a href="https://github.com/Krishna0073"> <img src="https://img.shields.io/badge/GitHub-Krishna0073-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/krishna-sharma-663375276/"> <img src="https://img.shields.io/badge/LinkedIn-Krishna_Sharma-0077B5?style=for-the-badge&logo=linkedin"/> </a> </p>
+---
+ 
 
 ## 💻 "Code. Learn. Build. Repeat."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=120&section=footer"/>
-
-</div>
