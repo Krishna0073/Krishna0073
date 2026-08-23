@@ -1,4 +1,3 @@
-<div align="center">
 # Hi 👋, I'm Krishna Sharma
 
 ### **🤖 AI & Machine Learning Student** • **💻 Software Developer** • **🌱 Aspiring AI Engineer**
@@ -515,8 +514,16 @@ Let's build something amazing together! 🚀
 
 ---
  
+---
 
-## 💻 "Code. Learn. Build. Repeat."
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=120&section=footer"/>
+<div align="center">
+
+## 💻 Code • Learn • Build • Repeat
+
+**Krishna Sharma** • AI & ML Student • Full-Stack Developer
+
+[GitHub](https://github.com/Krishna0073) • [LinkedIn](https://www.linkedin.com/in/krishna-sharma-663375276/)
+
+⭐ *Thanks for visiting my profile!*
 
 </div>
